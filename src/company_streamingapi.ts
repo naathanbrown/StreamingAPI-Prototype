@@ -13,7 +13,7 @@ export async function subscribeCompanies() {
 	let response = await fetch(reqString, {
 		headers: {
 			Authorization:
-				"Basic bmtxRlE4ZkhEd2NnVkZOYTY5bWs4M2dxTi1QUlVuNWpMRXpKSGVGWDo6",
+				"YOUR API KEY HERE",
 		},
 	});
 
